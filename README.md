@@ -1,7 +1,3 @@
-Here's your **enhanced `README.md`** with **emojis** for better readability and engagement:  
-
----
-
 # 🚀 **Backend APIs for Web Applications**  
 
 ### 📌 **Overview**  
